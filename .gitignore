@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+/app/config/credenciales.php
+/vendor/
+database.sqlite
